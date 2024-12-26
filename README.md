@@ -54,9 +54,9 @@ cd frontend
 ### Build a query to fetch data from MongoDB
 1. In browser open up to http://localhost:5000.
 2. Drag and drop the light blue box in the top left corner to a container.
-3. Select the fields in the draggable element.
+3. Populate the fields in the draggable element.
 4. Click "Run".
-5. Results should be populated on the bottom of the page.
+5. Results should be populated at the bottom of the page.
 
 ### Discard a single draggable element
 1. Drag the element to the red "Trash" section in the top.
