@@ -107,7 +107,7 @@ git clone https://github.com/leunp/mern-filter.git
 ### Conditions queried from MongoDB with stored data
 - Stage 1 - The rb OR the drb is superior to or equal to 0.8 (i.e. It is a real detection)
 - Stage 2 - The absolute value of galactic latitude > 10 (i.e. It's not too close from the plane of the milky way, meaning it's likely extragalactic and could be an object in another galaxy)
-- Stage 3 - The age (jd - jdstarthist, here we build features from other features with operators like a minus) < 7 (i.e. it's somewhat young, we haven't been detecting this for a long time).
+- Stage 3 - The age (jd - jdstarthist) < 7 (i.e. it's somewhat young, we haven't been detecting this for a long time).
 ![image](https://github.com/user-attachments/assets/df2855ea-6bf4-414f-8cb3-5fcdb4948a32)
 ![image](https://github.com/user-attachments/assets/84772cb5-1839-4077-98b5-2608ef9070b9)
 
