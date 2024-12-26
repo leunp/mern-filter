@@ -52,7 +52,7 @@ git clone https://github.com/leunp/mern-filter.git
 
 ## Usage
 
-### Build a query fetch data
+### Build a query to fetch data from MongoDB
 1. In browser open up to http://localhost:5000.
 2. Drag and drop the light blue box in the top left corner to a container.
 3. Select the fields in the draggable element.
