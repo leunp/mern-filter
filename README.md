@@ -11,8 +11,8 @@ https://filter-mern-stack.wl.r.appspot.com/
 ## Prerequisites
 
 - Node.js v18 or higher
-- MongoDB
-- A modern browser on computer (drag and drop not implemented for phones)
+- Internet connection for MongoDB
+- A browser on a computer (drag and drop not implemented for phones)
 
 ## Application Structure Overview
 
