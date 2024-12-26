@@ -36,7 +36,7 @@ git clone https://github.com/leunp/mern-filter.git
 
 ### 2. Install dependencies:
 
-<br/>cd mern-filter
+cd mern-filter
 <br/>cd frontend
 <br/>npm install
 <br/>cd backend
@@ -44,9 +44,8 @@ git clone https://github.com/leunp/mern-filter.git
 
 ### 3. Start up the frontend (http://localhost:5000) and backend (http://localhost:8000):
 
-<br/>cd frontend
+cd frontend
 <br/>npm start
-
 <br/>cd backend
 <br/>npm start
 
